@@ -16,3 +16,10 @@ If you can, please use the Linux executable, windows cmd/pws does not support co
 3. I'm Immortal         (Someone can't get hacked that easily, learn it's power and become **The One**!)
 3. HighBaller           (Prove others that you are really good at gambling (get absolute max score))
 ```
+
+<!--
+hidden tips:
+1. can be solved w/ [Proxy](https://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/) [video](https://www.youtube.com/watch?v=iApNzWZG-10)
+2. can be solver w/ [RE](https://en.wikipedia.org/wiki/Reverse_engineering) and [PA](https://en.wikipedia.org/wiki/Packet_analyzer) 
+3. can be partially solved with [CE](https://en.wikipedia.org/wiki/Cheat_Engine)
+-->
