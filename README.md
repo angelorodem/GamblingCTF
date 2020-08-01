@@ -1,5 +1,5 @@
 # Online Gambling CTF
-Someone told you about a hidden gambling game, you gotta prove 'em you are a really good gambler too!
+Someone told you about an hidden online gambling game, you gotta prove 'em you are a really good gambler too!
 
 If you can, please use the Linux executable, windows cmd/pws does not support colors and will show alot of trash.
 
